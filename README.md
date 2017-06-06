@@ -1,1 +1,1 @@
-# learn the C hard way exercises
+# learn C the hard way exercises
